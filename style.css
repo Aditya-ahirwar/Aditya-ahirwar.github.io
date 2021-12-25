@@ -1,0 +1,14 @@
+body{
+    background-color: #143d59;
+}
+.card{
+    width: 18rem;
+}
+.taskContainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.label{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
